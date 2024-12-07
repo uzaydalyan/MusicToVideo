@@ -1,6 +1,6 @@
 # **Music to Video Converter**
 
-A lightweight Python tool to create video from a static image and an audio file. Perfect for turning music tracks and cover art into videos for platforms like YouTube.
+A lightweight Python tool to create video from a static image and an audio file. It is for turning music tracks and cover art into videos for platforms like YouTube.
 
 ## **Usage**
 
